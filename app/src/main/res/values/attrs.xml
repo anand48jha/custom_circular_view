@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="CircularView">
+        <attr name="centerX" format="float"></attr>
+        <attr name="centerY" format="float"></attr>
+        <attr name="radius" format="float"></attr>
+    </declare-styleable>
+</resources>

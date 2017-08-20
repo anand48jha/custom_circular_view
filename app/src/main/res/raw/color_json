@@ -1,0 +1,34 @@
+{
+  "colors": [
+    {
+      "color": "black",
+      "category": "hue",
+        "hex": "#000"
+    },
+    {
+      "color": "white",
+      "category": "value",
+        "hex": "#FFF"
+    },
+    {
+      "color": "red",
+      "category": "hue",
+        "hex": "#FF0"
+    },
+    {
+      "color": "blue",
+      "category": "hue",
+        "hex": "#00F"
+    },
+    {
+      "color": "yellow",
+      "category": "hue",
+        "hex": "#FF0"
+    },
+    {
+      "color": "green",
+      "category": "hue",
+        "hex": "#0F0"
+    }
+  ]
+}
